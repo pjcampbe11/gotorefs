@@ -1,0 +1,24 @@
+LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
+
+Here are links to large language model security content - research, papers, and news - posted by @llm_sec
+
+https://llmsecurity.net/
+
+Chat with LLms - https://chat.lmsys.org/
+
+LLM testing findings
+
+https://github.com/BishopFox/llm-testing-findings/tree/main
+
+A curation of awesome tools, documents and projects about LLM Security.
+
+https://github.com/corca-ai/awesome-llm-security
+
+Official Code for "Baseline Defenses for Adversarial Attacks Against Aligned Language Models
+
+https://github.com/neelsjain/baseline-defenses
+
+GitHub Copilot Chat: From Prompt Injection to Data Exfiltration
+
+https://kai-greshake.de/
+https://embracethered.com/blog/
