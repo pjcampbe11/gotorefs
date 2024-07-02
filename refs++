@@ -1,1 +1,12 @@
+Info derived from the resources listed - rough notes of things that are interesting 
 
+// Instead of a bunch of "need to look at links/resources" for AI, I needed a simple way to quickly know where a particular resource was sourced from and how likely that info will be accurate and/or useful.
+
+For example
+
+https://huggingface.co/datasets/luckychao/Chat-Models-Backdoor-Attacking
+https://huggingface.co/luckychao/Vicuna-Backdoored-7B
+
+Source from https://github.com/hychaochao/Chat-Models-Backdoor-Attacking
+
+Knowing this allows for a quick way to trace back to a source paper or github 
