@@ -33,6 +33,13 @@ https://kai-greshake.de/
 
 https://embracethered.com/blog/
 
+Some notable 2024 blogs from ^ 
+
+https://embracethered.com/blog/posts/2024/llm-context-pollution-and-delayed-automated-tool-invocation/
+https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
+https://embracethered.com/blog/posts/2024/whoami-conditional-prompt-injection-instructions/
+https://embracethered.com/blog/posts/2024/machine-learning-attack-series-keras-backdoor-model/
+
 Awesome-Backdoor-in-Deep-Learning: This GitHub repository provides a curated list of papers and resources on backdoor attacks and defenses in deep learning. It includes information on backdoor attacks in various contexts, such as image classification and language models, and links to relevant papers and code 
 
 https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning
