@@ -1,4 +1,6 @@
-The amount of solid resources out there regarding Red Teaming AI in a practical way is a bit limited. There is however a ton of blogs and research that cover the basics and a ton of academic research (some /w & some w/o PapersWithCode) that are foriegn to most, unless you've been in the AI/ML community for some time and/or have an advanced degree in ML. 
+The amount of solid resources out there regarding Red Teaming AI in a practical way is a bit limited. There's a lot of vendor specific resources regarding AI, but most of the blogs and research out there only cover the basics and most of the academic research (some /w & some w/o PapersWithCode) are highly technical and are foriegn to most, unless you've been in the AI/ML community for some time and/or have an advanced degree in ML. 
+
+What's listed below is a list of what I've identifed (in my opinion) as valuable in terms of resources regarding red teaming AI
 
 The resources listed here and the efforts made to summerize the academic side of things is an-ongoing effort and any new content discovered or white papers analyzed, will be documented here.
 
