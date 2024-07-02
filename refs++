@@ -11,8 +11,13 @@ Source from https://github.com/hychaochao/Chat-Models-Backdoor-Attacking
 
 Knowing this allows for a quick way to trace back to a source paper or github 
 
+CoPilot
 
-
+Who Am I? Conditional Prompt Injection Attacks with Microsoft Copilot
 https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
+
+Video: ASCII Smuggling and Hidden Prompt Instructions
 https://embracethered.com/blog/posts/2024/ascii-smuggling-and-hidden-prompt-instructions/
+
+How Microsoft Approaches AI Red Teaming | BRK223
 https://www.youtube.com/watch?v=zFRn_RMSPI4 (start at 19:35 for XPIA)
