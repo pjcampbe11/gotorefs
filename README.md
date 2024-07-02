@@ -2,8 +2,6 @@ The amount of solid resources out there regarding Red Teaming AI in a practical 
 
 What's listed below is a list of what I've identifed (in my opinion) as valuable in terms of resources regarding red teaming AI
 
-The resources listed here and the efforts made to summerize the academic side of things is an-ongoing effort and any new content discovered or white papers analyzed, will be documented here.
-
 Offsec ML Playbook
 A database of offensive ML TTP’s, broken down by supply chain attacks, offensive ML techniques and adversarial ML. The playbook aims to simplify the decision making process of targetting ML in an organization.
 
@@ -75,3 +73,5 @@ https://atlas.mitre.org/matrices/ATLAS/
 For white paper summerizations and analysis 
 
 https://raw.githubusercontent.com/pjcampbe11/Red-Teaming-AI/main/README.md 
+
+The resources listed here and the efforts made to summerize the academic side of things is an-ongoing effort and any new content discovered or white papers analyzed, will be documented here.
