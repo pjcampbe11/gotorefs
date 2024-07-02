@@ -13,7 +13,7 @@ Here are links to large language model security content - research, papers, and 
 
 https://llmsecurity.net/
 
-Chat with LLms - https://chat.lmsys.org/
+Chat with LLMs - https://chat.lmsys.org/
 
 LLM testing findings
 
