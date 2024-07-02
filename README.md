@@ -4,7 +4,7 @@ The resources listed here and the efforts made to summerize the academic side of
 
 Offsec ML Playbook
 A database of offensive ML TTP’s, broken down by supply chain attacks, offensive ML techniques and adversarial ML. The playbook aims to simplify the decision making process of targetting ML in an organization.
-[GitHub Pages](https://pages.github.com/)
+
 (https://5stars217.github.io/2023-10-26-introducing-offsec-ml-framework/)
 
 LLM security is the investigation of the failure modes of LLMs in use, the conditions that lead to them, and their mitigations.
