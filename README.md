@@ -34,19 +34,27 @@ https://kai-greshake.de/
 https://embracethered.com/blog/
 
 Awesome-Backdoor-in-Deep-Learning: This GitHub repository provides a curated list of papers and resources on backdoor attacks and defenses in deep learning. It includes information on backdoor attacks in various contexts, such as image classification and language models, and links to relevant papers and code 
+
 https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning
 
-Offensive AI Compilation: This repository offers a collection of resources related to offensive AI, including tools for performing backdoor attacks. It includes frameworks like ART, Cleverhans, and TextAttack, which support various attack types and data formats -> https://github.com/jiep/offensive-ai-compilation
+Offensive AI Compilation: This repository offers a collection of resources related to offensive AI, including tools for performing backdoor attacks. It includes frameworks like ART, Cleverhans, and TextAttack, which support various attack types and data formats
+
+https://github.com/jiep/offensive-ai-compilation
+
 Backdoor Learning Resources: This GitHub repository lists multiple resources related to backdoor learning, including papers, tools, and datasets. It covers various types of backdoor attacks and defenses, providing a comprehensive overview of the field 
+
 https://github.com/THUYimingLi/backdoor-learning-resources
 
 Chat-Models-Backdoor-Attacking: This repository contains code for implementing backdoor attacks on chat models. It includes methods for training and deploying chat models with distributed trigger-based backdoor attacks, which are designed to be triggered by specific user inputs across different conversation rounds 
+
 https://github.com/hychaochao/Chat-Models-Backdoor-Attacking
 
 Label Consistent Backdoor: This repository focuses on creating models with imperceptible triggers using adversarial perturbations. It includes a detailed methodology for implementing backdoor attacks using the CIFAR-10 dataset and the ResNet-18 model 
+
 https://github.com/AhmadSavaiz03/Label_Consistent_Backdoor
 
 These resources should provide you with a good starting point for understanding and implementing backdoor attacks in AI models.
+
 https://owasp.org/www-project-top-10-for-large-language-model-applications/llm-top-10-governance-doc/LLM_AI_Security_and_Governance_Checklist-v1.1.pdf
 
 https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
@@ -54,4 +62,7 @@ https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf
 https://www.microsoft.com/en-us/msrc/aibugbar
 
 https://atlas.mitre.org/matrices/ATLAS/
-For white paper summerizations and analysis -> https://raw.githubusercontent.com/pjcampbe11/Red-Teaming-AI/main/README.md 
+
+For white paper summerizations and analysis 
+
+https://raw.githubusercontent.com/pjcampbe11/Red-Teaming-AI/main/README.md 
