@@ -10,3 +10,9 @@ https://huggingface.co/luckychao/Vicuna-Backdoored-7B
 Source from https://github.com/hychaochao/Chat-Models-Backdoor-Attacking
 
 Knowing this allows for a quick way to trace back to a source paper or github 
+
+
+
+https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
+https://embracethered.com/blog/posts/2024/ascii-smuggling-and-hidden-prompt-instructions/
+https://www.youtube.com/watch?v=zFRn_RMSPI4 (start at 19:35 for XPIA)
