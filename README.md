@@ -17,7 +17,7 @@ Chat with LLMs - https://chat.lmsys.org/
 
 AWS Sagemaker
 
-https://docs.aws.amazon.com/pdfs/sagemaker/latest/dg/sagemaker-dg.pdf#page96         
+https://docs.aws.amazon.com/pdfs/sagemaker/latest/dg/sagemaker-dg.pdf#page01      
 
 LLM testing findings
 
