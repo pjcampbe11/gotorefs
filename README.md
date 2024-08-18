@@ -1,4 +1,4 @@
-#Red Teaming AI Resources
+# Red Teaming AI Resources
 
 ### Offsec ML Playbook
 A database of offensive ML TTP’s, broken down by supply chain attacks, offensive ML techniques, and adversarial ML. The playbook aims to simplify the decision-making process of targeting ML in an organization.
