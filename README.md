@@ -1,6 +1,4 @@
-The amount of solid resources out there regarding Red Teaming AI in a practical way is a bit limited. There's a lot of vendor specific resources regarding AI, but most of the blogs and research out there only cover the basics and most of the academic research (some with and some without PapersWithCode) are highly technical and are foreign to most, unless you've been in the AI/ML community for some time and/or have an advanced degree in ML.
-
-What's listed below is a list of what I've identified (in my opinion) as valuable in terms of resources regarding red teaming AI.
+#Red Teaming AI Resources
 
 ### Offsec ML Playbook
 A database of offensive ML TTP’s, broken down by supply chain attacks, offensive ML techniques, and adversarial ML. The playbook aims to simplify the decision-making process of targeting ML in an organization.
